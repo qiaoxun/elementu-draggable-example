@@ -1,4 +1,6 @@
 # elementui_draggable_example
+This is element-ui demo of [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable), Vue.Draggable is awesome.
+
 
 ## Project setup
 ```
@@ -27,4 +29,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# elementui_draggable_example
