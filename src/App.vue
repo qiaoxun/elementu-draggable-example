@@ -1,19 +1,14 @@
 <template>
   <div id="app">
-    <el-tabs type="card">
-      <el-tab-pane label="Simple Demo">
-        <simple-demo/>
-      </el-tab-pane>
-      <el-tab-pane label="Test">Test</el-tab-pane>
-    </el-tabs>
+    <home/>
   </div>
 </template>
 <script>
-import SimpleDemo from './components/SimpleDemo'
+import Home from './views/Home'
 
 export default {
   components: {
-    SimpleDemo
+    Home
   }
 }
 
